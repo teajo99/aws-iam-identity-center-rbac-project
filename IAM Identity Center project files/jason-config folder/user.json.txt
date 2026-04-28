@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "trader1",
+      "role": "Trader",
+      "description": "Can access trading systems and market data"
+    },
+    {
+      "username": "accountant1",
+      "role": "Accountant",
+      "description": "Can access financial records and reports"
+    },
+    {
+      "username": "risk1",
+      "role": "Risk Officer",
+      "description": "Can view audit logs and system activity"
+    }
+  ]
+}

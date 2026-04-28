@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "groupName": "Traders",
+      "members": ["trader1"],
+      "accessLevel": "Trading Systems"
+    },
+    {
+      "groupName": "Accountants",
+      "members": ["accountant1"],
+      "accessLevel": "Financial Records"
+    },
+    {
+      "groupName": "Risk Officers",
+      "members": ["risk1"],
+      "accessLevel": "Audit Logs"
+    }
+  ]
+}

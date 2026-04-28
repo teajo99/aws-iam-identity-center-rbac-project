@@ -1,0 +1,25 @@
+{
+  "permissionSets": [
+    {
+      "role": "Trader",
+      "permissions": [
+        "ViewMarketData",
+        "ExecuteTrades"
+      ]
+    },
+    {
+      "role": "Accountant",
+      "permissions": [
+        "ViewFinancialReports",
+        "ReadLedgerData"
+      ]
+    },
+    {
+      "role": "Risk Officer",
+      "permissions": [
+        "ViewAuditLogs",
+        "MonitorSystemActivity"
+      ]
+    }
+  ]
+}
