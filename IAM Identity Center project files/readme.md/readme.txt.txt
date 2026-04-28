@@ -90,19 +90,7 @@ These files simulate how identity structures are designed in real cloud environm
 - Least privilege security model  
 - Centralized identity management  
 
----
-
-## 🎥 Demo Video
-
-A full demonstration video is included showing:
-
-- IAM Identity Center setup  
-- User and group creation  
-- Permission configuration  
-- Risk Officer login test  
-
-👉 https://youtube.com/your-video-link
-
+--
 ---
 
 ## 💡 Key Learning Outcome
