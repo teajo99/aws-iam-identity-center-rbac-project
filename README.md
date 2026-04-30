@@ -1,3 +1,7 @@
+Architecture diagram
+![image alt](https://github.com/teajo99/aws-iam-identity-center-rbac-project/blob/465e53699f6637b41f72746599ba2c1bc66d28bd/IAM%20PROJECT1.png)
+
+
 # 🔐 AWS IAM Identity Center – Role-Based Access Control (RBAC) Project
 
 ## 📌 Overview
