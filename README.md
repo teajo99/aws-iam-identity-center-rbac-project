@@ -2,9 +2,9 @@ Architecture diagram
 ![image alt](https://github.com/teajo99/aws-iam-identity-center-rbac-project/blob/465e53699f6637b41f72746599ba2c1bc66d28bd/IAM%20PROJECT1.png)
 
 
-# 🔐 AWS IAM Identity Center – Role-Based Access Control (RBAC) Project
+# AWS IAM Identity Center – Role-Based Access Control (RBAC) Project
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates how organizations manage secure user access using **AWS IAM Identity Center**.
 
@@ -14,7 +14,7 @@ This follows the **least privilege principle**, ensuring users only access what 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To design and implement a cloud identity management system that:
 
@@ -25,7 +25,7 @@ To design and implement a cloud identity management system that:
 
 ---
 
-## 🏦 Real-World Scenario
+##  Real-World Scenario
 
 In a banking environment:
 
@@ -37,7 +37,7 @@ Each user is restricted to only the resources required for their job function.
 
 ---
 
-## 🛠️ AWS Services Used
+##  AWS Services Used
 
 - AWS IAM Identity Center  
 - User Management  
@@ -47,7 +47,7 @@ Each user is restricted to only the resources required for their job function.
 
 ---
 
-## 👥 Identity Structure
+##  Identity Structure
 
 | Group Name       | Purpose / Access Level            |
 |------------------|----------------------------------|
@@ -57,12 +57,12 @@ Each user is restricted to only the resources required for their job function.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 ---
 
-## 📄 JSON Configuration Files
+##  JSON Configuration Files
 
 This project includes structured JSON files representing:
 
@@ -74,7 +74,7 @@ These files simulate how identity structures are designed in real cloud environm
 
 ---
 
-## 📸 Demo Highlights
+##  Highlights
 
 - AWS IAM Identity Center configured successfully  
 - Users and groups created  
@@ -84,7 +84,7 @@ These files simulate how identity structures are designed in real cloud environm
 
 ---
 
-## 🔐 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 - Identity and Access Management (IAM)  
 - Role-Based Access Control (RBAC) using groups  
@@ -95,7 +95,7 @@ These files simulate how identity structures are designed in real cloud environm
 --
 ---
 
-## 💡 Key Learning Outcome
+## Key Learning Outcome
 
 This project demonstrates how cloud architects design secure access systems where:
 
@@ -106,7 +106,7 @@ This project demonstrates how cloud architects design secure access systems wher
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add Multi-Factor Authentication (MFA)  
 - Integrate AWS Organizations (multi-account setup)  
@@ -115,9 +115,9 @@ This project demonstrates how cloud architects design secure access systems wher
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Aspiring Cloud Architect focused on AWS Cloud Security, Identity Management, and Scalable Cloud Architecture.
+Focused on AWS Cloud Security, Identity Management, and Scalable Cloud Architecture.
 
 ---
 
