@@ -1,6 +1,12 @@
 Architecture diagram
 ![image alt](https://github.com/teajo99/aws-iam-identity-center-rbac-project/blob/465e53699f6637b41f72746599ba2c1bc66d28bd/IAM%20PROJECT1.png)
 
+![AWS](https://img.shields.io/badge/AWS-IAM%20Identity%20Center-FF9900?logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/Security-RBAC-blue)
+![SSO](https://img.shields.io/badge/Authentication-SSO-success)
+![Least Privilege](https://img.shields.io/badge/Security-Least%20Privilege-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPOSITORY?style=social)
 
 # AWS IAM Identity Center – Role-Based Access Control (RBAC) Project
 
